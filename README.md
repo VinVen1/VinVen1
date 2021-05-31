@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VinVen1
 - 👀 I’m interested in Angular and all Javascript framework, machine learning, ethical hacking and plants 🌱
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Angular projects or discord bot
+- 💞️ I’m looking to collaborate on Angular or Node.js projects
 - 📫 How to reach me: 
   - **[Stack Overflow](https://stackoverflow.com/users/13805399/vins)**
   - **[Linkedin](https://www.linkedin.com/in/vincenzo-veneruso-992175212/)**
